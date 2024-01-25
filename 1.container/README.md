@@ -11,8 +11,8 @@
      <td>Rotated Container</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/Jaydip614/Flutter-Development-3.0/blob/main/0.Assets/center_container.png" width=270 height=480></td>
-    <td><img src="Flutter-Development-3.0/0.Assets/center_container.png" width=270 height=480></td>
-    <td><img src="Flutter-Development-3.0/0.Assets/rotated_container.png" width=270 height=480></td>
+    <td><img src="Assets/center_container.png" width=270 height=480></td>
+    <td><img src="Assets/center_container.png" width=270 height=480></td>
+    <td><img src="Assets/rotated_container.png" width=270 height=480></td>
   </tr>
  </table>
