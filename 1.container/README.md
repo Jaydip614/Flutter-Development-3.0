@@ -11,8 +11,8 @@
      <td>Rotated Container</td>
   </tr>
   <tr>
-    <td><img src="Assets/center_container.png" width=270 height=500></td>
-    <td><img src="Assets/center_container.png" width=270 height=500></td>
-    <td><img src="Assets/rotated_container.png" width=270 height=500></td>
+    <td><img src="Assets/center_container.png" width=270 height=520></td>
+    <td><img src="Assets/center_container.png" width=270 height=520></td>
+    <td><img src="Assets/rotated_container.png" width=270 height=520></td>
   </tr>
  </table>
