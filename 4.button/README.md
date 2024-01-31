@@ -24,3 +24,7 @@
     <td><img src="Screenshot/outlined_button.png" width=250 height=520></td>
   </tr>
  </table>
+
+### Output:
+
+- [consol_output](Screenshot/consol_output.png)
