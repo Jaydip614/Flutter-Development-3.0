@@ -19,13 +19,13 @@ The Text widget display a string of text with single style.
 
 <table>
   <tr>
-    <td>Simple Container</td>
-     <td>Center Container</td>
-     <td>Rotated Container</td>
+    <td>Simple Text</td>
+     <td>Center Text</td>
+     <td>Decorated Text</td>
   </tr>
   <tr>
-    <td><img src="Screenshot/simple_text.png.png" width=250 height=520></td>
-    <td><img src="Screenshot/center_text.png.png" width=250 height=520></td>
-    <td><img src="Screenshot/decorated_text.png.png" width=250 height=520></td>
+    <td><img src="Screenshot/simple_text.png" width=250 height=520></td>
+    <td><img src="Screenshot/center_text.png" width=250 height=520></td>
+    <td><img src="Screenshot/decorated_text.png" width=250 height=520></td>
   </tr>
  </table>
