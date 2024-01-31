@@ -24,8 +24,8 @@ The Text widget display a string of text with single style.
      <td>Rotated Container</td>
   </tr>
   <tr>
-    <td><img src="Screenshot/simple_text.png.png" width=250 height=520></td>
-    <td><img src="Screenshot/center_text.png.png" width=250 height=520></td>
-    <td><img src="Screenshot/decorated_text.png.png" width=250 height=520></td>
+    <td><img src="Screenshot/simple_text.png" width=250 height=520></td>
+    <td><img src="Screenshot/center_text.png" width=250 height=520></td>
+    <td><img src="Screenshot/decorated_text.png" width=250 height=520></td>
   </tr>
  </table>
