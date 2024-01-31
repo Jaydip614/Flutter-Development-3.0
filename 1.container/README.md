@@ -8,6 +8,7 @@ It is a widget that combines common painting, positioning and sizing of child wi
    - height: int/float/double
    - width: int/float/double
    - color: Colors.any_color   (color of container/background color of child)
+   - child: any_widget
    - margin: EdgeInsets.only/all   (space outside the container)
    - padding: EdgeInsets.only/all   (space inside the container)
    - alignment: Alignment.center/topRight/(x,y)   (Align the child within the container.)
