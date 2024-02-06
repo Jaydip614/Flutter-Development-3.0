@@ -30,9 +30,9 @@ A widget that displays an image.
 
 <table>
   <tr>
-    <td>Simple Container</td>
-     <td>Center Container</td>
-     <td>Rotated Container</td>
+    <td>jpg Image</td>
+     <td>png Image</td>
+     <td>center png Image</td>
   </tr>
   <tr>
     <td><img src="Screenshot/simple_image.png" width=250 height=520></td>
