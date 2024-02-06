@@ -27,4 +27,4 @@
 
 ### Output:
 
-- [consol_output](Screenshot/consol_output.png)
+![consol_output](Screenshot/consol_output.png)
