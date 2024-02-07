@@ -47,9 +47,9 @@ Error: A RenderFlex overflowed by no. of pixels on the right/left/bottom/top.
      <td>Row in Column </td>
   </tr>
   <tr>
-    <td><img src="Screenshot/renderflex_error_in_row.png" width=250 height=520></td>
-    <td><img src="Screenshot/renderflex_error_in_column.png" width=250 height=520></td>
-    <td><img src="Screenshot/renderflex_error_in_row&column.png" width=250 height=520></td>
+    <td><img src="Screenshot/renderflex_error_in_row.png" width=200 height=416></td>
+    <td><img src="Screenshot/renderflex_error_in_column.png" width=200 height=416></td>
+    <td><img src="Screenshot/renderflex_error_in_row&column.png" width=200 height=416></td>
 
   </tr>
  </table>
