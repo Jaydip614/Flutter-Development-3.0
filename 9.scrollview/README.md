@@ -7,7 +7,7 @@ Used to solve RenderFlex overFlow Error
 
 - [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
 
-Error: A RenderFlex overflowed by 449 pixels on the right.
+Error: A RenderFlex overflowed by no. of pixels on the right/left/bottom/top.
 
 #### Console:
 
