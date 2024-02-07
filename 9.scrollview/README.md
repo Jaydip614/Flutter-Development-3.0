@@ -73,3 +73,4 @@ By wrapping with SingleChildScrollView widget, you can make scrollable row and c
 
 
 
+[scroll_row_column.webm](https://github.com/Jaydip614/Flutter-Development-3.0/assets/148715011/c407b4f9-587d-4066-b51c-517a553c488d)
