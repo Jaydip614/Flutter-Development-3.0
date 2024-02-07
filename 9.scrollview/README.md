@@ -3,6 +3,7 @@
 A box in which a single widget can be scrolled.
 
 Used to make scrollable layout Like row, column, image, combination of widget.
+
 Used to solve RenderFlex overFlow Error
 
 - [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
