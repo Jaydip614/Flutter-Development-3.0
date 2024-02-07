@@ -7,7 +7,7 @@ Used to solve RenderFlex overFlow Error
 
 - [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
 
-- Error: A RenderFlex overflowed by 449 pixels on the right.
+Error: A RenderFlex overflowed by 449 pixels on the right.
 
 #### Console:
 
@@ -17,7 +17,7 @@ Used to solve RenderFlex overFlow Error
    - child: any_widget (widget that you want make scrollable)
    - scrollDirection: Axis.(horizontal, vertical)
 
-#### RenderFlex overFlow Error
+### RenderFlex overFlow Error:
 
 <table>
   <tr>
@@ -33,7 +33,12 @@ Used to solve RenderFlex overFlow Error
   </tr>
  </table>
 
-#### Scrollable Row & Column:
+
+
+### Scrollable Row & Column:
+
+By wrapping with SingleChildScrollView widget, you can make scrollable row and column.
+- Note: In Row, you must need to provide Scroll Direction
 
 <table>
   <tr>
@@ -49,7 +54,7 @@ Used to solve RenderFlex overFlow Error
   </tr>
  </table>
 
-#### Scrollable Views:
+#### Scrolling Views:
 
 <table>
   <tr>
