@@ -8,8 +8,6 @@ Used to solve RenderFlex overFlow Error
 
 - [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/SingleChildScrollView-class.html)
 
-Error: A RenderFlex overflowed by no. of pixels on the right/left/bottom/top.
-
 #### Scrolling Views:
 
 <table>
@@ -27,7 +25,11 @@ Error: A RenderFlex overflowed by no. of pixels on the right/left/bottom/top.
   </tr>
  </table>
 
- 
+
+ # Solve RenderFlex OverFlow Error:
+
+Error: A RenderFlex overflowed by no. of pixels on the right/left/bottom/top.
+
 #### Console:
 
 ![randerflex_error](Screenshot/console_output.png)
