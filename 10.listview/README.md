@@ -4,11 +4,11 @@ A scrollable list of widgets arranged in linear manner.
 
 Used to make scrollable list of text, image, container etc...
 
+- [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+
 - ListView: used for (static data), So size of list will not change at RunTime.
 - ListView.builder: used for (Dynamic data), Size of list will be changed at RunTime
 - ListView.separated: used to separate children by using divider (for dynamic data)
-
-- [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/ListView-class.html)
 
 ## Properties:
    - children: [] list of widget (widget that you want make scrollable)
