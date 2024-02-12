@@ -3,7 +3,7 @@
 The BoxDecoration class provides a variety of ways to draw a box.
 
 
-- [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/BoxDecoration.html)
+- [Resource(flutter.dev)](https://api.flutter.dev/flutter/widgets/BoxDecoration-class.html)
 
 ## Properties:
    - color: to provide color
