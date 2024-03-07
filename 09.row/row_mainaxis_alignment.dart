@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(const ButtonApp());
+void main() => runApp(const RowApp());
 
-class ButtonApp extends StatelessWidget{
-  const ButtonApp({super.key});
+class RowApp extends StatelessWidget{
+  const RowApp({super.key});
 
   @override
   Widget build(BuildContext context) {

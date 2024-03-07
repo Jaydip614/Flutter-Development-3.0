@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(const ButtonApp());
+void main() => runApp(const ScrollViewApp());
 
-class ButtonApp extends StatelessWidget{
-  const ButtonApp({super.key});
+class ScrollViewApp extends StatelessWidget{
+  const ScrollViewApp({super.key});
 
   @override
   Widget build(BuildContext context) {
